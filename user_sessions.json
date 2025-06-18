@@ -1,0 +1,72 @@
+{
+    "933493534": {
+        "state": "main_menu",
+        "source_channel": null,
+        "source_title": null,
+        "target_channel": null,
+        "target_title": null,
+        "start_msg_id": null,
+        "end_msg_id": null,
+        "session_string": "BAEES4oAKAeBPGegGNhEDidfsgBRtUdc6NTuIwzOrpAHbZpk6_vGIyZo2tfMEA3VWArbrQbLg9gS_yMmeH49gUZ1NutoPhp9-6Jtj8RGcUBwHCk2k8QtRTP6jBs9NKT498qMBxGit2CYwibnOxFU8jsGQDjYtreXEikF3UYeeaFZ8wG6m5VcH6PWg1jm0n9t2dGnBIvDxhtsjYvPT0tNFvSgBu_vNH8CTa-BDWMpYRj3ZiV54eAzwHIOen-1xWVp-f60rx-g1h_ILIzfaYeHQkheZC4WqLZUs0KvBnRiLXaznTf8zD_uQJ7FBn9ymzEHc78t68sojOMfnQStv0Wr3o9qX5wKEQAAAAGZDaFAAA",
+        "phone": null,
+        "phone_code_hash": null,
+        "last_active": 1750261883.6218884,
+        "created_at": 1749942397.5626163,
+        "is_cancelled": true
+    },
+    "6003988454": {
+        "state": "awaiting_personal_copy_link",
+        "source_channel": null,
+        "source_title": null,
+        "target_channel": null,
+        "target_title": null,
+        "start_msg_id": null,
+        "end_msg_id": null,
+        "session_string": "BAEES4oAKAeBPGegGNhEDidfsgBRtUdc6NTuIwzOrpAHbZpk6_vGIyZo2tfMEA3VWArbrQbLg9gS_yMmeH49gUZ1NutoPhp9-6Jtj8RGcUBwHCk2k8QtRTP6jBs9NKT498qMBxGit2CYwibnOxFU8jsGQDjYtreXEikF3UYeeaFZ8wG6m5VcH6PWg1jm0n9t2dGnBIvDxhtsjYvPT0tNFvSgBu_vNH8CTa-BDWMpYRj3ZiV54eAzwHIOen-1xWVp-f60rx-g1h_ILIzfaYeHQkheZC4WqLZUs0KvBnRiLXaznTf8zD_uQJ7FBn9ymzEHc78t68sojOMfnQStv0Wr3o9qX5wKEQAAAAGZDaFAAA",
+        "phone": null,
+        "phone_code_hash": null,
+        "last_active": 1750257250.8616135,
+        "created_at": 1750033133.1116016
+    },
+    "1792727169": {
+        "source_channel": null,
+        "source_title": null,
+        "target_channel": null,
+        "target_title": null,
+        "start_msg_id": null,
+        "end_msg_id": null,
+        "state": "awaiting_phone",
+        "last_active": 1750033334.751521
+    },
+    "1045053707": {
+        "source_channel": "-1002434759780",
+        "source_title": "test pvt channal",
+        "target_channel": "-1002845612875",
+        "target_title": "target",
+        "start_msg_id": 1,
+        "end_msg_id": 26,
+        "state": "main_menu",
+        "last_active": 1750040872.5597773,
+        "session_string": "BAEES4oAKAeBPGegGNhEDidfsgBRtUdc6NTuIwzOrpAHbZpk6_vGIyZo2tfMEA3VWArbrQbLg9gS_yMmeH49gUZ1NutoPhp9-6Jtj8RGcUBwHCk2k8QtRTP6jBs9NKT498qMBxGit2CYwibnOxFU8jsGQDjYtreXEikF3UYeeaFZ8wG6m5VcH6PWg1jm0n9t2dGnBIvDxhtsjYvPT0tNFvSgBu_vNH8CTa-BDWMpYRj3ZiV54eAzwHIOen-1xWVp-f60rx-g1h_ILIzfaYeHQkheZC4WqLZUs0KvBnRiLXaznTf8zD_uQJ7FBn9ymzEHc78t68sojOMfnQStv0Wr3o9qX5wKEQAAAAGZDaFAAA"
+    },
+    "6862774592": {
+        "source_channel": null,
+        "source_title": null,
+        "target_channel": null,
+        "target_title": null,
+        "start_msg_id": null,
+        "end_msg_id": null,
+        "state": "main_menu",
+        "last_active": 1750257985.9104574
+    },
+    "1090200657": {
+        "source_channel": null,
+        "source_title": null,
+        "target_channel": null,
+        "target_title": null,
+        "start_msg_id": null,
+        "end_msg_id": null,
+        "state": "main_menu",
+        "last_active": 1750258027.2294924
+    }
+}
