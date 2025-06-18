@@ -109,7 +109,7 @@ class ButtonHandler:
             end_msg = session.get('end_msg_id') or 'Not set'
             
             # Status text
-            status_text = "🤖 **Telegram Message Copier Bot**\n\n"
+            status_text = "🤖 **Telegram Save Restricted Content Bot**\n\n"
             status_text += f"📱 **Session:** {'✅ Active' if has_session else '❌ Not created'}\n"
             status_text += f"📥 **Source:** {source_title}\n"
             if source_id:
