@@ -824,7 +824,15 @@ async def handle_phone_input(message: Message, phone: str):
         
         if success:
             await message.reply(result)
-            await message.reply("Please send the verification code you received on Telegram.")
+            await message.reply(
+                "Please send the Telegram code with spaces between the numbers.\n"
+                "This helps keep your account safe and ensures the code works.\n\n"
+                "For example, if your code is 12345:\n"
+                "12345 ❌  (do NOT send like this)\n"
+                "1 2 3 4 5 ✅\n"
+                "12 345 ✅\n"
+                "123 45 ✅\n\n"
+                "Just make sure there is at least one space in your code!")
         else:
             await message.reply(result)
             
