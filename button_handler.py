@@ -666,7 +666,7 @@ class ButtonHandler:
         """Show payment methods and admin contact."""
         text = (
             "💳 <b>Payment Methods</b> 💳\n\n"
-            "Lifetime VIP: <b>200 EGP</b> or <b>5$</b>\n\n"
+            "Lifetime VIP: <b>100 EGP</b> or <b>3$</b>\n\n"
             "<b>Binance ID 🏦:</b> <code>789564679</code>\n"
             "USDT (TRC 20) 📱: <code>TE1S4PeEws1xq5QaehdrZFW4fPZYZbYiUu</code>\n"
             "Vodafone Cash 🔴: <code>01015339426</code>\n"
